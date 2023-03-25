@@ -1,8 +1,5 @@
 # OBDP 
 ### Academic Project 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/edgepunk/OBDP) 
-
-Repository contains various approaches tried by me. 
 
 Requires Models to be downloaded:
 
